@@ -5,8 +5,8 @@ order: 4
 ---
 
 <figure>
-    <img src="/assets/img/robot-waiter-banner.jpg" alt="Robot Waiter">
-    <em>Me (center) doing some last minute repairs on my freshman semester engineering project.</em>
+    <img src="/assets/img/robot-waiter-banner.png" alt="Robot Waiter">
+    <em>Me (center) doing last minute repairs on my first engineering project.</em>
 </figure>
 
 I'm a computer enthusiast. I graduated from the University of Maryland with a bachelor's degree in Computer Engineering. In my pastime I enjoy learning about new and existing technologies, playing video games with friends, cooking, and working on my home server.  
